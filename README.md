@@ -13,3 +13,10 @@ The list of hentai manga and hentai animation is stored separately. The list of 
 ### Tags
 
 For hentai manga, you should use the nhentai tag system
+
+### ID
+
+Because MAL contains few titles, it uses its own ID system.
+
+* All animations start with "A-"
+* All manga starts with "M-"
